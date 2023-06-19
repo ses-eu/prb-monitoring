@@ -2,3 +2,7 @@ nav {
   margin: auto;
   max-width: 1200px;
 }
+
+.text-no-space {
+  margin-bottom: 0px;
+}

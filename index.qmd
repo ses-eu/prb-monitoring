@@ -1,22 +1,101 @@
 ---
 title: "PRB Annual Monitoring Report (AMR)"
 format: html
+editor: visual
 ---
 
-## PRB AMR scope, objectives and legal basis 
+## PRB Annual Monitoring Report
 
-The PRB Annual Monitoring Report analyses the yearly performance of the air navigation services of the Single European Sky (SES) area against the targets included in the adopted national Performance Plans. The third reference period of the SES performance scheme covers the calendar years 2020 to 2024 inclusive.
+Under [Commission Implementing Regulation (EU) 2019/317](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0317) (herein referred to as the Regulation), monitoring is one of the primary tasks of the [Performance Review Body (PRB)](https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/performance-review-body_en). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Naviga-tion Service Providers (ANSPs) perform in relation to their performance targets.
 
-Under Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the Performance Review Body. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.
+The legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of [Regulation (EC) 549/2004](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32004R0549) (the Framework Regulation) and in Article 3 of the Regulation.
 
-The PRB Annual Monitoring Report covers the four Key Performance Areas (KPAs) of safety, environment, capacity and cost efficiency. For each KPA, Regulation (EU) 2019/317 defines Key Performance Indicators (KPIs) as well a number of indicators for monitoring not associated to a binding target (PIs).
+## SES geographical scope
 
-The legal basis for monitoring ATM performance of air traffic management (ATM) in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Commission Implementing Regulation (EU) 2019/317.
+SES Regulation covers:
 
-The PRB AMR dashboard provides access to the latest available data and analysis at Union-wide and local level.
+-   29 States
 
-## About the PRB
+-   29 En route charging zones
 
-The Performance Review Body (PRB) of the Single European sky (SES) is an advisory body to the European Commission. The PRB assists the Commission in the implementation of the SES performance and charging scheme and makes recommendations to the Commission. It is established by Commission Implementing Decision (EU) 2016/2296 of 16 December 2016.
+-   24 Terminal Charging Zones
 
-The tasks of the PRB are defined in Article 3 of Commission Implementing Regulation (EU) 2019/317.
+-   49 ACCs
+
+-   103 Airports
+
+## 2022 Performance - High Level Results
+
+::: columns
+
+::: {.column width="50%" style="border: 1px solid black"}
+
+::: columns
+::: {.column width="50%" style="text-align: center; border-right: 1px solid black"}
+**IFR movements**<br>
+8,345 ('000) flights<br>
+(+52% vs 2021)
+
+------------------------------------------------------------------------
+
+**En route Service Units (SUs)**<br>
+108,508 ('000) SUs<br>
+(+62% vs 2021)<br>
+(-2% vs planned)
+
+------------------------------------------------------------------------
+:::
+
+::: {.column width="50%" style="text-align: center"}
+**Safety KPA**<br>
+EoSM: Level X
+
+------------------------------------------------------------------------
+:::
+
+:::
+
+::: columns
+::: {.column width="50%" style="text-align: center; border-right: 1px solid black"}
+**Environment KPA**<br>
+KEA: x.xx%
+
+------------------------------------------------------------------------
+:::
+
+::: {.column width="50%" style="text-align: center"}
+**Capacity KPA**<br>
+En route ATFM delay: x.x min/flt
+
+------------------------------------------------------------------------
+:::
+
+:::
+
+::: columns
+::: {.column width="50%" style="text-align: center; border-right: 1px solid black"}
+**Cost-Efficiency KPA**<br>
+AUC: 56.55€
+:::
+
+::: {.column width="50%" style="text-align: center"}
+**Investments**<br>
++100M€ actual CAPEX
+:::
+
+:::
+
+:::
+
+::: {.column width="50%" style="text-align: center;"}
+Placeholder for PRB conclusions
+:::
+
+:::
+
+<br>
+to be added
+
+## Online Monitoring Library
+
+to be added

@@ -1,0 +1,22 @@
+---
+title: "About"
+format: html
+---
+
+## PRB AMR scope, objectives and legal basis
+
+The PRB Annual Monitoring Report analyses the yearly performance of the air navigation services of the Single European Sky (SES) area against the targets included in the adopted national Performance Plans. The third reference period of the SES performance scheme covers the calendar years 2020 to 2024 inclusive.
+
+Under Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the Performance Review Body. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.
+
+The PRB Annual Monitoring Report covers the four Key Performance Areas (KPAs) of safety, environment, capacity and cost efficiency. For each KPA, Regulation (EU) 2019/317 defines Key Performance Indicators (KPIs) as well a number of indicators for monitoring not associated to a binding target (PIs).
+
+The legal basis for monitoring ATM performance of air traffic management (ATM) in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Commission Implementing Regulation (EU) 2019/317.
+
+The PRB AMR dashboard provides access to the latest available data and analysis at Union-wide and local level.
+
+## About the PRB
+
+The Performance Review Body (PRB) of the Single European sky (SES) is an advisory body to the European Commission. The PRB assists the Commission in the implementation of the SES performance and charging scheme and makes recommendations to the Commission. It is established by Commission Implementing Decision (EU) 2016/2296 of 16 December 2016.
+
+The tasks of the PRB are defined in Article 3 of Commission Implementing Regulation (EU) 2019/317.

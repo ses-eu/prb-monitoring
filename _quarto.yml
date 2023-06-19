@@ -12,6 +12,8 @@ website:
         text: Home
       - href: dashboard.qmd
         text: Interactive Dashboard
+      - href: about.qmd
+        text: About
   page-footer: "To be added" 
   
 format:
