@@ -4,6 +4,5 @@ format: html
 editor: visual
 ---
 
-## Interactive dashboard
 
 placeholder for dashboard

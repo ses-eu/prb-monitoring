@@ -45,7 +45,7 @@ SES Regulation covers:
 
 ::: columns
 ::: {.column width="50%" style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; padding-top: 1rem;"}
-**Environment KPA**<br> KEA: x.xx%<br> (+x.x vs plan)
+**Environment KPA**<br> KEA: 2.59%<br> (+0.22p.p. vs target)<span style="color: #FF0000;"> {{< fa solid arrow-up >}} </span>
 :::
 
 ::: {.column width="50%" style="text-align: center; border-top: 1px solid black; padding-top: 1rem;"}
@@ -69,7 +69,6 @@ Placeholder for PRB conclusions
 :::
 :::
 
-<br> to be added
 
 ## Online Monitoring Library
 
