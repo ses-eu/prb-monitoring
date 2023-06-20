@@ -27,47 +27,68 @@ SES Regulation covers:
 ## 2022 Performance - High Level Results
 
 ::: columns
-::: {.column width="50%" style="border: 1px solid black"}
-::: columns
-::: {.column width="50%" style="text-align: center; border-right: 1px solid black; padding-top: 1rem;"}
-**IFR movements**<br> 8,345 ('000) flights<br> (+52% vs 2021)
+::: {.column width="50%"}
+::: text-centered
 
+::: columns
+::: {.column width="50%" style="border-right: 1px solid black;"}
+::: text-pad-top
+**IFR movements** <br>8,345 ('000) flights <br>(+52% vs 2021)
+:::
 ------------------------------------------------------------------------
 
-**En route Service Units (SUs)**<br> 108,508 ('000) SUs <br>(+62% vs 2021) <br>(-2% vs plan) <span style="color: #FF0000;"> {{< fa solid arrow-down >}} </span>
-
+**En route Service Units (SUs)** <br>108,508 ('000) SUs <br>(+62% vs 2021) <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"}
 :::
 
-::: {.column width="50%" style="text-align: center; padding-top: 1rem;"}
-**Safety KPA**<br> EoSM: Level X
+::: {.column width="50%" }
+::: text-pad-top
+**Safety KPA** <br>EoSM: Level X
+:::
 :::
 :::
 
 ::: columns
-::: {.column width="50%" style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; padding-top: 1rem;"}
-**Environment KPA**<br> KEA: 2.59%<br> (+0.22p.p. vs target)<span style="color: #FF0000;"> {{< fa solid arrow-up >}} </span>
+::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black; "}
+::: text-pad-top
+**Environment KPA** <br>KEA: 2.59% <br>(+0.22p.p. vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
+:::
 :::
 
-::: {.column width="50%" style="text-align: center; border-top: 1px solid black; padding-top: 1rem;"}
+::: {.column width="50%" style="border-top: 1px solid black;"}
+::: text-pad-top
 **Capacity KPA** <br>En route ATFM delay: x.x min/flt <br>(+x.x vs plan)
 :::
 :::
+:::
 
 ::: columns
-::: {.column width="50%" style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; padding-top: 1rem;"}
-**Cost-Efficiency KPA** <br>AUC: 56.55€ <br>(+x.x vs plan) <span style="color: #92d050;"> {{< fa solid arrow-up >}} </span>
-:::
-
-::: {.column width="50%" style="text-align: center; border-top: 1px solid black; padding-top: 1rem;"}
-**Investments**<br> +100M€ actual CAPEX<br> (+x.x vs plan)
-:::
+::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black;"}
+::: text-pad-top
+**Cost-Efficiency KPA** <br>AUC: 56.55€ <br>(+x.x vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"}
 :::
 :::
 
-::: {.column width="50%" style="text-align: center;"}
+::: {.column width="50%" style="border-top: 1px solid black;"}
+::: text-pad-top
+**Investments** <br>+100M€ actual CAPEX <br>(+x.x vs plan)
+:::
+:::
+
+::: 
+:::
+:::
+
+<!-- empy column for space -->
+::: {.column width="2%"}
+:::
+
+::: {.column width="48%"}
 Placeholder for PRB conclusions
 :::
+
 :::
+
+<br>
 
 
 ## Online Monitoring Library

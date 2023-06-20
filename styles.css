@@ -3,7 +3,11 @@ nav {
   max-width: 1200px;
 }
 
-.text-no-space {
-  margin-bottom: 0px;
+.text-centered {
+  text-align: center;
+  border: 1px solid black;
 }
 
+.text-pad-top {
+  padding-top: 1rem;
+}
