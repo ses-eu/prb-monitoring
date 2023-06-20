@@ -6,7 +6,7 @@ editor: visual
 
 ## PRB Annual Monitoring Report
 
-Under [Commission Implementing Regulation (EU) 2019/317](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0317) (herein referred to as the Regulation), monitoring is one of the primary tasks of the [Performance Review Body (PRB)](https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/performance-review-body_en). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Naviga-tion Service Providers (ANSPs) perform in relation to their performance targets.
+Under [Commission Implementing Regulation (EU) 2019/317](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0317) (herein referred to as the Regulation), monitoring is one of the primary tasks of the [Performance Review Body (PRB)](https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/performance-review-body_en). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.
 
 The legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of [Regulation (EC) 549/2004](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32004R0549) (the Framework Regulation) and in Article 3 of the Regulation.
 
@@ -27,74 +27,49 @@ SES Regulation covers:
 ## 2022 Performance - High Level Results
 
 ::: columns
-
 ::: {.column width="50%" style="border: 1px solid black"}
-
 ::: columns
-::: {.column width="50%" style="text-align: center; border-right: 1px solid black"}
-**IFR movements**<br>
-8,345 ('000) flights<br>
-(+52% vs 2021)
+::: {.column width="50%" style="text-align: center; border-right: 1px solid black; padding-top: 1rem;"}
+**IFR movements**<br> 8,345 ('000) flights<br> (+52% vs 2021)
 
 ------------------------------------------------------------------------
 
-**En route Service Units (SUs)**<br>
-108,508 ('000) SUs<br>
-(+62% vs 2021)<br>
-(-2% vs planned)
+**En route Service Units (SUs)**<br> 108,508 ('000) SUs <br>(+62% vs 2021) <br>(-2% vs plan) <span style="color: #FF0000;"> {{< fa solid arrow-down >}} </span>
 
-------------------------------------------------------------------------
 :::
 
-::: {.column width="50%" style="text-align: center"}
-**Safety KPA**<br>
-EoSM: Level X
-
-------------------------------------------------------------------------
+::: {.column width="50%" style="text-align: center; padding-top: 1rem;"}
+**Safety KPA**<br> EoSM: Level X
 :::
-
 :::
 
 ::: columns
-::: {.column width="50%" style="text-align: center; border-right: 1px solid black"}
-**Environment KPA**<br>
-KEA: x.xx%
-
-------------------------------------------------------------------------
+::: {.column width="50%" style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; padding-top: 1rem;"}
+**Environment KPA**<br> KEA: x.xx%<br> (+x.x vs plan)
 :::
 
-::: {.column width="50%" style="text-align: center"}
-**Capacity KPA**<br>
-En route ATFM delay: x.x min/flt
-
-------------------------------------------------------------------------
+::: {.column width="50%" style="text-align: center; border-top: 1px solid black; padding-top: 1rem;"}
+**Capacity KPA** <br>En route ATFM delay: x.x min/flt <br>(+x.x vs plan)
 :::
-
 :::
 
 ::: columns
-::: {.column width="50%" style="text-align: center; border-right: 1px solid black"}
-**Cost-Efficiency KPA**<br>
-AUC: 56.55€
+::: {.column width="50%" style="text-align: center; border-right: 1px solid black; border-top: 1px solid black; padding-top: 1rem;"}
+**Cost-Efficiency KPA** <br>AUC: 56.55€ <br>(+x.x vs plan) <span style="color: #92d050;"> {{< fa solid arrow-up >}} </span>
 :::
 
-::: {.column width="50%" style="text-align: center"}
-**Investments**<br>
-+100M€ actual CAPEX
+::: {.column width="50%" style="text-align: center; border-top: 1px solid black; padding-top: 1rem;"}
+**Investments**<br> +100M€ actual CAPEX<br> (+x.x vs plan)
 :::
-
 :::
-
 :::
 
 ::: {.column width="50%" style="text-align: center;"}
 Placeholder for PRB conclusions
 :::
-
 :::
 
-<br>
-to be added
+<br> to be added
 
 ## Online Monitoring Library
 
