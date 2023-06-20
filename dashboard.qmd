@@ -1,5 +1,5 @@
 ---
-title: "PRB Annual Monitoring Report - interactive dashboard"
+title: "PRB Annual Monitoring Report - Interactive dashboard"
 format: html
 editor: visual
 ---
