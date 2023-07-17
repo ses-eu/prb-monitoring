@@ -37,12 +37,12 @@ SES Regulation covers:
 :::
 ------------------------------------------------------------------------
 
-**En route Service Units (SUs)** <br>108,508 ('000) SUs <br>(+62% vs 2021) <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"}
+**En route Service Units (SUs)** <br>108,508 ('000) SUs <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} <br>(+62% vs 2021) 
 :::
 
 ::: {.column width="50%" }
 ::: text-pad-top
-**Safety KPA** <br>EoSM: Level X
+**Safety KPA** <br>EoSM (ANSPs on/above the target): <br>Risk management: 20 (+9 vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>Other MOs: 27 (-3 vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} 
 :::
 :::
 :::
@@ -64,7 +64,7 @@ SES Regulation covers:
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black;"}
 ::: text-pad-top
-**Cost-Efficiency KPA** <br>AUC: 56.55€ <br>(+x.x vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"}
+**Cost-Efficiency KPA** <br>AUC trend: -43.9% <br>(-5.4pp vs DUC trend) [{{< fa solid arrow-down >}}]{style="color: #92d050;"}
 :::
 :::
 
