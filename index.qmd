@@ -33,16 +33,13 @@ SES Regulation covers:
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black;"}
 ::: text-pad-top
-**IFR movements** <br>8,345 ('000) flights <br>(+52% vs 2021)
+**IFR movements** <br>8,345 ('000) flights <br>(+52% vs 2021) <br><span style="color:white;">-</span> 
 :::
-------------------------------------------------------------------------
-
-**En route Service Units (SUs)** <br>108,508 ('000) SUs <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} <br>(+62% vs 2021) 
 :::
 
 ::: {.column width="50%" }
 ::: text-pad-top
-**Safety KPA** <br>EoSM (ANSPs on/above the target): <br>Risk management: 20 (+9 vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>Other MOs: 27 (-3 vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} 
+**En route Service Units (SUs)** <br>108,508 ('000) SUs <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} <br>(+62% vs 2021) 
 :::
 :::
 :::
@@ -50,13 +47,13 @@ SES Regulation covers:
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black; "}
 ::: text-pad-top
-**Environment KPA** <br>KEA: 2.59% <br>(+0.22p.p. vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
+**Safety KPA** <br>EoSM (ANSPs on/above the target): <br>Risk management: 20 (+9 vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>Other MOs: 27 (-3 vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} 
 :::
 :::
 
 ::: {.column width="50%" style="border-top: 1px solid black;"}
 ::: text-pad-top
-**Capacity KPA** <br>En route ATFM delay: x.x min/flt <br>(+x.x vs plan)
+**Environment KPA** <br>KEA: 2.59% <br>(+0.22p.p. vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
 :::
 :::
 :::
@@ -64,13 +61,13 @@ SES Regulation covers:
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black;"}
 ::: text-pad-top
-**Cost-Efficiency KPA** <br>AUC trend: -43.9% <br>(-5.4pp vs DUC trend) [{{< fa solid arrow-down >}}]{style="color: #92d050;"}
+**Capacity KPA** <br>En route ATFM delay: x.x min/flt <br>(+x.x vs plan)
 :::
 :::
 
 ::: {.column width="50%" style="border-top: 1px solid black;"}
 ::: text-pad-top
-**Investments** <br>+100M€ actual CAPEX <br>(+x.x vs plan)
+**Cost-Efficiency KPA** <br>AUC trend: -43.9% <br>(-5.4pp vs DUC trend) [{{< fa solid arrow-down >}}]{style="color: #92d050;"}
 :::
 :::
 
