@@ -4,5 +4,36 @@ format: html
 editor: visual
 ---
 
+<style type="text/css">
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    margin-left: -20px;
+    padding-top: 380%;
+    width: 105%;
+}
 
-placeholder for dashboard
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 110%;
+    border: 0;
+}
+</style>
+
+
+<div class="container">
+
+Intro
+
+<small>Please, note that the dashboard takes a few seconds to load.</small>
+
+<div class="resp-container">
+
+<iframe class="resp-iframe" src="https://app.powerbi.com/view?r=eyJrIjoiZGFkZDA2NWEtMmI4Ny00NmFkLTg2YTctNTA4MTJkOGQ1NWFmIiwidCI6Ijc2ZjMzYzIwLTU5NzktNDQwOC1hZGY3LThiM2M0YmU5NWU1MiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+
+</div><!-- closes iframe container -->
+
+</div><!-- closes container fluid-->
