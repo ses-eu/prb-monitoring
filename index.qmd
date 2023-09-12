@@ -24,16 +24,19 @@ SES Regulation covers:
 
 -   49 ACCs
 
--   103 Airports
+-   103 Airports 
 :::
 ::: {.column width="50%"}
-![]
+```{r}
+#| file: R/plot-ses-map.R
+#| out.height: "100%"
+#| out.width: "100%"
+```
 
 ::: 
 :::
 
 ## 2022 Performance - High Level Results
-
 ::: columns
 ::: {.column width="50%"}
 ::: text-centered
