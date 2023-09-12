@@ -14,7 +14,6 @@ library(ggplot2)
 library(stringr)
 library(readr)
 library(purrr)
-library(rmarkdown)
 
 firs <- country_fir(pruatlas::firs_nm_406,
                     icao_id = "EB|ED|EE|EF|EH|EI|EK|EN|EP|ES|EV|EY|GC|LB|LC|LD|LE|LF|LG|LH|LI|LJ|LK|LM|LO|LP|LR|LS|LZ",
