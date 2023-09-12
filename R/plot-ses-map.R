@@ -28,8 +28,10 @@ g <- plot_country_fir(firs = firs,
                   fl = 200)
 
 
-g + 
+g <- g + 
   theme(title = element_blank(),
         plot.margin = margin(-4, 0, -3, 0, "cm"))
+
+g
 
 

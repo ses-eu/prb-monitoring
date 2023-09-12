@@ -28,11 +28,11 @@ SES Regulation covers:
 :::
 ::: {.column width="50%"}
 
-<!-- ```{r} -->
-<!-- #| file: R/plot-ses-map.R -->
-<!-- #| out.height: "100%" -->
-<!-- #| out.width: "100%" -->
-<!-- ``` -->
+```{r}
+#| file: R/plot-ses-map.R
+#| out.height: "100%"
+#| out.width: "100%"
+```
 
 ::: 
 :::
