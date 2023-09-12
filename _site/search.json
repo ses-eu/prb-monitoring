@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The PRB Annual Monitoring Report analyses the yearly performance of the air navigation services of the Single European Sky (SES) area against the targets included in the adopted national Performance Plans. The third reference period of the SES performance scheme covers the calendar years 2020 to 2024 inclusive.\nUnder Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the Performance Review Body. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe PRB Annual Monitoring Report covers the four Key Performance Areas (KPAs) of safety, environment, capacity and cost efficiency. For each KPA, Regulation (EU) 2019/317 defines Key Performance Indicators (KPIs) as well a number of indicators for monitoring not associated to a binding target (PIs).\nThe legal basis for monitoring ATM performance of air traffic management (ATM) in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Commission Implementing Regulation (EU) 2019/317.\nThe PRB AMR dashboard provides access to the latest available data and analysis at Union-wide and local level."
+  },
+  {
+    "objectID": "about.html#about-the-prb",
+    "href": "about.html#about-the-prb",
+    "title": "About",
+    "section": "About the PRB",
+    "text": "About the PRB\nThe Performance Review Body (PRB) of the Single European sky (SES) is an advisory body to the European Commission. The PRB assists the Commission in the implementation of the SES performance and charging scheme and makes recommendations to the Commission. It is established by Commission Implementing Decision (EU) 2016/2296 of 16 December 2016.\nThe tasks of the PRB are defined in Article 3 of Commission Implementing Regulation (EU) 2019/317."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "PRB Annual Monitoring Report - Interactive dashboard",
+    "section": "",
+    "text": "Intro\nPlease, note that the dashboard takes a few seconds to load."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PRB Annual Monitoring Report (AMR)",
+    "section": "",
+    "text": "Under Commission Implementing Regulation (EU) 2019/317 (herein referred to as the Regulation), monitoring is one of the primary tasks of the Performance Review Body (PRB). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Regulation."
+  },
+  {
+    "objectID": "index.html#ses-geographical-scope",
+    "href": "index.html#ses-geographical-scope",
+    "title": "PRB Annual Monitoring Report (AMR)",
+    "section": "SES geographical scope",
+    "text": "SES geographical scope\n\n\nSES Regulation covers:\n\n29 States\n29 En route charging zones\n24 Terminal Charging Zones\n49 ACCs\n103 Airports"
+  },
+  {
+    "objectID": "index.html#performance---high-level-results",
+    "href": "index.html#performance---high-level-results",
+    "title": "PRB Annual Monitoring Report (AMR)",
+    "section": "2022 Performance - High Level Results",
+    "text": "2022 Performance - High Level Results\n\n\n\n\n\n\nIFR movements 8,345 (’000) flights (+52% vs 2021) -\n\n\n\nEn route Service Units (SUs) 108,508 (’000) SUs (-2% vs plan)  (+62% vs 2021)\n\n\n\n\n\n\nSafety KPA EoSM (ANSPs on/above the target): Risk management: 20 (+9 vs plan)  Other MOs: 27 (-3 vs plan) \n\n\n\nEnvironment KPA KEA: 2.59% (+0.22p.p. vs target) \n\n\n\n\n\n\nCapacity KPA En route ATFM delay: x.x min/flt (+x.x vs plan)\n\n\n\nCost-Efficiency KPA AUC trend: -43.9% (-5.4pp vs DUC trend) \n\n\n\n\n\n\n\nPlaceholder for PRB conclusions"
+  },
+  {
+    "objectID": "index.html#online-monitoring-library",
+    "href": "index.html#online-monitoring-library",
+    "title": "PRB Annual Monitoring Report (AMR)",
+    "section": "Online Monitoring Library",
+    "text": "Online Monitoring Library\nto be added"
+  }
+]

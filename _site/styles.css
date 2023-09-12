@@ -1,0 +1,13 @@
+nav {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.text-centered {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.text-pad-top {
+  padding-top: 1rem;
+}
