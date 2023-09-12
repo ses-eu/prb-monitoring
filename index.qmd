@@ -12,6 +12,8 @@ The legal basis for monitoring the performance of air traffic management in the 
 
 ## SES geographical scope
 
+::: columns
+::: {.column width="50%"}
 SES Regulation covers:
 
 -   29 States
@@ -23,6 +25,12 @@ SES Regulation covers:
 -   49 ACCs
 
 -   103 Airports
+:::
+::: {.column width="50%"}
+![]
+
+::: 
+:::
 
 ## 2022 Performance - High Level Results
 

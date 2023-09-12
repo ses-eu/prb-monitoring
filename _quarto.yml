@@ -14,6 +14,8 @@ website:
         text: Interactive dashboard
       - href: about.qmd
         text: About
+      - href: https://www.eurocontrol.int/prudata/dashboard/
+        text: SES Data Portal {{< fa external-link-alt >}}
   page-footer: "To be added" 
   
 format:
