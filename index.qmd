@@ -37,6 +37,7 @@ SES Regulation covers:
 :::
 
 ## 2022 Performance - High Level Results
+
 ::: columns
 ::: {.column width="50%"}
 ::: text-centered
