@@ -24,7 +24,7 @@ SES Regulation covers:
 
 -   49 ACCs
 
--   103 Airports 
+-   145 Airports 
 :::
 ::: {.column width="50%"}
 
@@ -74,7 +74,7 @@ SES Regulation covers:
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black;"}
 ::: text-pad-top
-**Capacity KPA** <br>En route ATFM delay: x.x min/flt <br>(+x.x vs plan)
+**Capacity KPA** <br>En route ATFM delay: 1.74 min/flt <br>(+x.x vs plan)
 :::
 :::
 
