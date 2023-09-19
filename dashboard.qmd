@@ -26,7 +26,9 @@ editor: visual
 
 <div class="container">
 
-<small style="text-align: center; color: #A6A6A6">*Please, note that the dashboard takes a few seconds to load.*</small>
+::: {.text-centered-nb}
+<small style="color: #A6A6A6">*Please, note that the dashboard takes a few seconds to load.*</small>
+:::
 
 <div class="resp-container">
 
