@@ -136,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 }
 </style>
 <div class="container">
-<div class="text-centered-nb">
+<div id="warning" class="text-centered-nb">
 <p><small style="color: #A6A6A6"><em>Please, note that the dashboard takes a few seconds to load.</em></small></p>
 </div>
 <div class="resp-container">
@@ -146,6 +146,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- closes iframe container -->
 </div>
 <!-- closes container fluid-->
+<script type="text/javascript">
+setTimeout(()=>{
+
+const mywarning = document.getElementById('warning');
+mywarning.style.display = 'none';
+
+}, 10000);
+
+</script>
 
 
 
