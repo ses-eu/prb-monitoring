@@ -3,6 +3,11 @@ nav {
   max-width: 1200px;
 }
 
+.navbar-logo{
+ max-height: 35px;
+
+}
+
 .text-centered {
   text-align: center;
   border: 1px solid black;
@@ -10,4 +15,8 @@ nav {
 
 .text-pad-top {
   padding-top: 1rem;
+}  
+
+h1, h2 {
+  color: #0070c0;
 }

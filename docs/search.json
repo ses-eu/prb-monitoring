@@ -18,14 +18,14 @@
     "href": "dashboard.html",
     "title": "PRB Annual Monitoring Report - Interactive dashboard",
     "section": "",
-    "text": "Intro\nPlease, note that the dashboard takes a few seconds to load."
+    "text": "Please, note that the dashboard takes a few seconds to load."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "PRB Annual Monitoring Report (AMR)",
     "section": "",
-    "text": "Under Commission Implementing Regulation (EU) 2019/317 (herein referred to as the Regulation), monitoring is one of the primary tasks of the Performance Review Body (PRB). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Regulation."
+    "text": "IFR movements 8,345 (’000) flights (+52% vs 2021) -\n\n\n\nEn route Service Units (SUs) 108,508 (’000) SUs (-2% vs plan)  (+62% vs 2021)\n\n\n\n\n\n\nSafety KPA EoSM (ANSPs on/above the target): Risk management: 20 (+9 vs plan)  Other MOs: 27 (-3 vs plan) \n\n\n\nEnvironment KPA KEA: 2.59% (+0.22p.p. vs target) \n\n\n\n\n\n\nCapacity KPA En route ATFM delay: 1.74 min/flt (+1.24 min/flt vs target) \n\n\n\nCost-Efficiency KPA AUC trend: -43.9% (-5.4pp vs DUC trend) \n\n\n\n\n\n\n\nPlaceholder for PRB conclusions"
   },
   {
     "objectID": "index.html#ses-geographical-scope",
@@ -47,5 +47,12 @@
     "title": "PRB Annual Monitoring Report (AMR)",
     "section": "Online Monitoring Library",
     "text": "Online Monitoring Library\nto be added"
+  },
+  {
+    "objectID": "index.html#prb-annual-monitoring-report",
+    "href": "index.html#prb-annual-monitoring-report",
+    "title": "PRB Annual Monitoring Report (AMR)",
+    "section": "PRB Annual Monitoring Report",
+    "text": "PRB Annual Monitoring Report\nUnder Commission Implementing Regulation (EU) 2019/317 (herein referred to as the Regulation), monitoring is one of the primary tasks of the Performance Review Body (PRB). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Regulation."
   }
 ]

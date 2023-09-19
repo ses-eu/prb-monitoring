@@ -26,10 +26,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -42,12 +38,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -95,10 +85,9 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://www.eurocontrol.int/prudata/dashboard/">
- <span class="menu-text">SES Data Portal <i class="fa-solid fa-external-link-alt" aria-label="external-link-alt"></i></span></a>
+ <span class="menu-text">Publications <i class="fa-solid fa-external-link-alt" aria-label="external-link-alt"></i></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -128,32 +117,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="prb-annual-monitoring-report" class="level2">
-<h2 class="anchored" data-anchor-id="prb-annual-monitoring-report">PRB Annual Monitoring Report</h2>
-<p>Under <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0317">Commission Implementing Regulation (EU) 2019/317</a> (herein referred to as the Regulation), monitoring is one of the primary tasks of the <a href="https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/performance-review-body_en">Performance Review Body (PRB)</a>. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.</p>
-<p>The legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of <a href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32004R0549">Regulation (EC) 549/2004</a> (the Framework Regulation) and in Article 3 of the Regulation.</p>
-</section>
-<section id="ses-geographical-scope" class="level2">
-<h2 class="anchored" data-anchor-id="ses-geographical-scope">SES geographical scope</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>SES Regulation covers:</p>
-<ul>
-<li><p>29 States</p></li>
-<li><p>29 En route charging zones</p></li>
-<li><p>24 Terminal Charging Zones</p></li>
-<li><p>49 ACCs</p></li>
-<li><p>145 Airports</p></li>
-</ul>
-</div><div class="column" style="width:50%;">
-<div class="cell" data-file="R/plot-ses-map.R">
-<div class="cell-output-display">
-<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" style="width:100.0%;height:100.0%"></p>
-</div>
-</div>
-</div>
-</div>
-</section>
 <section id="performance---high-level-results" class="level2">
 <h2 class="anchored" data-anchor-id="performance---high-level-results">2022 Performance - High Level Results</h2>
 <div class="columns">
@@ -184,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="columns">
 <div class="column" style="border-right: 1px solid black; border-top: 1px solid black;">
 <div class="text-pad-top">
-<p><strong>Capacity KPA</strong> <br>En route ATFM delay: 1.74 min/flt <br>(+x.x vs plan)</p>
+<p><strong>Capacity KPA</strong> <br>En route ATFM delay: 1.74 min/flt <br>(+1.24 min/flt vs target) <span style="color: #FF0000;"><i class="fa-solid fa-arrow-down" aria-label="arrow-down"></i></span></p>
 </div>
 </div><div class="column" style="border-top: 1px solid black;">
 <div class="text-pad-top">
@@ -201,9 +164,31 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p><br></p>
 </section>
-<section id="online-monitoring-library" class="level2">
-<h2 class="anchored" data-anchor-id="online-monitoring-library">Online Monitoring Library</h2>
-<p>to be added</p>
+<section id="ses-geographical-scope" class="level2">
+<h2 class="anchored" data-anchor-id="ses-geographical-scope">SES geographical scope</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>SES Regulation covers:</p>
+<ul>
+<li><p>29 States</p></li>
+<li><p>29 En route charging zones</p></li>
+<li><p>24 Terminal Charging Zones</p></li>
+<li><p>49 ACCs</p></li>
+<li><p>145 Airports</p></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="cell" data-file="R/plot-ses-map.R">
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" style="width:100.0%;height:100.0%"></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="prb-annual-monitoring-report" class="level2">
+<h2 class="anchored" data-anchor-id="prb-annual-monitoring-report">PRB Annual Monitoring Report</h2>
+<p>Under <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0317">Commission Implementing Regulation (EU) 2019/317</a> (herein referred to as the Regulation), monitoring is one of the primary tasks of the <a href="https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/performance-review-body_en">Performance Review Body (PRB)</a>. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.</p>
+<p>The legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of <a href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32004R0549">Regulation (EC) 549/2004</a> (the Framework Regulation) and in Article 3 of the Regulation.</p>
 
 
 </section>

@@ -4,9 +4,9 @@ project:
 
 website:
   title: ""
+  search: false
   navbar:
     background: "#f8f9fa"
-    search: true
     logo: "images/prb_logo.png"
     left: 
       - href: index.qmd
@@ -16,7 +16,9 @@ website:
       - href: about.qmd
         text: About
       - href: https://www.eurocontrol.int/prudata/dashboard/
-        text: SES Data Portal {{< fa external-link-alt >}}
+        text: Publications {{< fa external-link-alt >}}
+      # - href: https://www.eurocontrol.int/prudata/dashboard/
+      #   text: SES Data Portal {{< fa external-link-alt >}}
   page-footer: "To be added" 
   
 format:
