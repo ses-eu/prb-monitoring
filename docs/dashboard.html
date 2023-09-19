@@ -140,20 +140,27 @@ ul.task-list li input[type="checkbox"] {
 <p><small style="color: #A6A6A6"><em>Please, note that the dashboard takes a few seconds to load.</em></small></p>
 </div>
 <div class="resp-container">
-<iframe class="resp-iframe" src="https://app.powerbi.com/view?r=eyJrIjoiZGFkZDA2NWEtMmI4Ny00NmFkLTg2YTctNTA4MTJkOGQ1NWFmIiwidCI6Ijc2ZjMzYzIwLTU5NzktNDQwOC1hZGY3LThiM2M0YmU5NWU1MiIsImMiOjl9" frameborder="0" allowfullscreen="true">
+<iframe id="myframe" class="resp-iframe" src="https://app.powerbi.com/view?r=eyJrIjoiZGFkZDA2NWEtMmI4Ny00NmFkLTg2YTctNTA4MTJkOGQ1NWFmIiwidCI6Ijc2ZjMzYzIwLTU5NzktNDQwOC1hZGY3LThiM2M0YmU5NWU1MiIsImMiOjl9" onload="onMyFrameLoad(this)" frameborder="0" allowfullscreen="true">
 </iframe>
 </div>
 <!-- closes iframe container -->
 </div>
 <!-- closes container fluid-->
+<!-- <script type="text/javascript"> -->
+<!-- setTimeout(()=>{ -->
+<!-- const mywarning = document.getElementById('warning'); -->
+<!-- mywarning.style.display = 'none'; -->
+<!-- }, 8000); -->
+<!-- </script> -->
 <script type="text/javascript">
+function onMyFrameLoad() {
 setTimeout(()=>{
 
 const mywarning = document.getElementById('warning');
 mywarning.style.display = 'none';
 
-}, 8000);
-
+}, 5000);
+};
 </script>
 
 
