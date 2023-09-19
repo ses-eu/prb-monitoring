@@ -44,6 +44,6 @@ setTimeout(()=>{
 const mywarning = document.getElementById('warning');
 mywarning.style.display = 'none';
 
-}, 10000);
+}, 8000);
 
 </script>
