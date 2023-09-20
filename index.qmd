@@ -41,7 +41,7 @@ editor: visual
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black;"}
 ::: text-pad-top
-**Capacity KPA** <br>En route ATFM delay: 1.74 min/flt <br>(+1.24 min/flt vs target) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} 
+**Capacity KPA** <br>En route ATFM delay: 1.74 min/flt <br>(+1.24 min/flt vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"} 
 :::
 :::
 
