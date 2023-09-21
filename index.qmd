@@ -19,7 +19,7 @@ editor: visual
 
 ::: {.column width="50%" }
 ::: text-pad-top
-**En route Service Units (SUs)** <br>108,508 ('000) SUs <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} <br>(+62% vs 2021) 
+**En route service units (SUs)** <br>108,508 ('000) SUs <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} <br>(+62% vs 2021) 
 :::
 :::
 :::
@@ -77,7 +77,7 @@ SES Regulation covers:
 
 -   29 En route charging zones
 
--   24 Terminal Charging Zones
+-   24 Terminal charging zones
 
 -   49 ACCs
 
