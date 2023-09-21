@@ -15,7 +15,7 @@ website:
         text: Interactive dashboard
       - href: about.qmd
         text: About
-      - href: https://www.eurocontrol.int/prudata/dashboard/
+      - href: https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/publications_en
         text: Publications {{< fa external-link-alt >}}
       # - href: https://www.eurocontrol.int/prudata/dashboard/
       #   text: SES Data Portal {{< fa external-link-alt >}}
