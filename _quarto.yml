@@ -4,7 +4,8 @@ project:
 
 website:
   title: ""
-  search: false
+  search: false 
+  favicon: "images/prb_logo_smaller.png"
   navbar:
     background: "#f8f9fa"
     logo: "images/prb_logo.png"
