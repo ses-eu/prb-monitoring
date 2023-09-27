@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.427">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About</title>
+<title>about</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -26,10 +26,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -42,12 +38,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,7 +47,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -82,23 +73,24 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dashboard.html">
+    <a class="nav-link" href="./dashboard.html" rel="" target="">
  <span class="menu-text">Interactive dashboard</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">
+    <a class="nav-link active" href="./about.html" rel="" target="" aria-current="page">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://www.eurocontrol.int/prudata/dashboard/">
+    <a class="nav-link" href="https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/publications_en" rel="" target="_blank">
  <span class="menu-text">Publications <i class="fa-solid fa-external-link-alt" aria-label="external-link-alt"></i></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -111,35 +103,90 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">About</h1>
-</div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="prb-amr-scope-objectives-and-legal-basis" class="level2">
-<h2 class="anchored" data-anchor-id="prb-amr-scope-objectives-and-legal-basis">PRB AMR scope, objectives and legal basis</h2>
-<p>The PRB Annual Monitoring Report analyses the yearly performance of the air navigation services of the Single European Sky (SES) area against the targets included in the adopted national Performance Plans. The third reference period of the SES performance scheme covers the calendar years 2020 to 2024 inclusive.</p>
-<p>Under Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the Performance Review Body. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.</p>
-<p>The PRB Annual Monitoring Report covers the four Key Performance Areas (KPAs) of safety, environment, capacity and cost efficiency. For each KPA, Regulation (EU) 2019/317 defines Key Performance Indicators (KPIs) as well a number of indicators for monitoring not associated to a binding target (PIs).</p>
-<p>The legal basis for monitoring ATM performance of air traffic management (ATM) in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Commission Implementing Regulation (EU) 2019/317.</p>
-<p>The PRB AMR dashboard provides access to the latest available data and analysis at Union-wide and local level.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>The performance and charging schemes are established on the basis of Article 11 of Regulation (EC) No 549/2004 laying down the framework for the creation of the Single European Sky (the Framework Regulation) and Articles 14-16 of Regulation (EC) No 550/2004 on the provision of air navigation services in the Single European Sky (the Service Provision Regulation) respectively. Technical provisions for the third reference period (RP3), covering 2020 to 2024, are set out in <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0317">Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the Single European Sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013</a> as well as <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?toc=OJ%3AL%3A2020%3A366%3ATOC&amp;uri=uriserv%3AOJ.L_.2020.366.01.0007.01.ENG#:~:text=This%20Regulation%20establishes%20exceptional%20measures%20to%20be%20applied,Article%207%20%281%29%20of%20Implementing%20Regulation%20%28EU%29%202019%2F317.">Commission Implementing Regulation (EU) 2020/1627 of 3 November 2020 on exceptional measures for the third reference period of the Single European Sky performance and charging scheme due to the COVID-19 pandemic</a>.</p>
+<p>The regulatory framework defines key performance indicators (KPIs) for the key performance areas (KPAs) of:</p>
+<ul>
+<li>Safety;</li>
+<li>Environment;</li>
+<li>Capacity; and</li>
+<li>Cost-efficiency.</li>
+</ul>
+<p>These are used to set performance targets at Union level, national level, or functional airspace block level. The KPIs cover both en route and terminal air navigation services, as well as network functions, to improve the overall performance of the network.</p>
+<p>The Union-wide revised performance targets for the third reference period are defined in <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021D0891">Commission Implementing Decision (EU) 2021/891 of 2 June 2021</a> (repealing Implementing Decision (EU) 2019/903). Based on the targets, Member States prepare the performance plans, which they submitted to the Commission, as assisted by the Performance Review Body (PRB).</p>
+<p>Under Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the PRB. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets. The PRB Annual Monitoring Report (AMR) analyses the performance of the air navigation services of the Single European Sky (SES) against targets. The current dashboard is meant to support the dissemination of the PRB AMR analysis and conclusions for:</p>
+<ul>
+<li>The SES system as a whole.</li>
+<li>Individual Member States (including MUAC); and</li>
+<li>Network functions performed by the Network Manager.</li>
+</ul>
 </section>
-<section id="about-the-prb" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-prb">About the PRB</h2>
-<p>The Performance Review Body (PRB) of the Single European sky (SES) is an advisory body to the European Commission. The PRB assists the Commission in the implementation of the SES performance and charging scheme and makes recommendations to the Commission. It is established by Commission Implementing Decision (EU) 2016/2296 of 16 December 2016.</p>
-<p>The tasks of the PRB are defined in Article 3 of Commission Implementing Regulation (EU) 2019/317.</p>
+<section id="traffic" class="level2">
+<h2 class="anchored" data-anchor-id="traffic">Traffic</h2>
+<p>Air traffic is presented, for the SES reference area and for the individual Member States, in terms of: - Instrumental Flight Rules movements (IFR); and - Total service units (TSUs) (i.e.&nbsp;unit of measurement used for charging purposes based on the multiplication of aircraft weight factor by distance factor).</p>
+<p>Actual traffic is compared with both the planned/determined traffic included in the adopted performance plan, as well as with the latest <a href="https://www.eurocontrol.int/forecasting#deliverables">STATFOR</a> forecast available at the time of adoption of the local performance plans.</p>
+</section>
+<section id="eosm" class="level2">
+<h2 class="anchored" data-anchor-id="eosm">EoSM</h2>
+<p>Safety is monitored through the effectiveness of safety management (EoSM) of the ANSPs KPI. The EoSM KPI measures the level of implementation of the following safety management objectives (MOs):</p>
+<ol type="a">
+<li>Safety policy and objectives;</li>
+<li>Safety risk management;</li>
+<li>Safety assurance;</li>
+<li>Safety promotion; and</li>
+<li>Safety culture.</li>
+</ol>
+<p>The EoSM for ANSPs is a set of questions to determine the minimum level of maturity for each management objective. The answers are provided by the ANSPs and verified by the NSAs. The questions are developed by EASA and included in the supporting <a href="https://wikis.ec.europa.eu/display/eusinglesky/RP3+Supporting+Materials?preview=/54034654/77530202/RP3%20EoSM%20template.xlsx">technical material</a> to the Regulation. For each objective, the maturity level achieved is determined by the lowest maturity level of any question allocated to a management objective. When answering the questions, one of the following maturity levels of implementation should be selected:</p>
+<ul>
+<li>Level A which is defined as ‘Informal Arrangements’ — SMS processes and/or requirements have not been agreed at the organisation level; they are either not routinely undertaken or depend on the individual assigned to the task.</li>
+<li>Level B which is defined as ‘Defined’ — SMS processes and/or requirements are defined but not yet fully implemented, documented or consistently applied.</li>
+<li>Level C which is defined as ‘Managed’ — SMS processes and/or requirements are fully documented and consistently applied.</li>
+<li>Level D which is defined as ‘Assured’ — Evidence is available to provide confidence that SMS processes and/or requirements are being applied appropriately and are delivering positive, measurable results.</li>
+</ul>
+<p>In addition to the minimum level achieved for a MO, an EoSM score is calculated. Each of the 100 questions in the EoSM questionnaire scores one (1) if the target for the associated MO is achieved or nil (0) if not achieved. The score gives an indication of how many areas (questions) the ANSPs need to improve.</p>
+<p>Applicable EoSM targets are defined at Union-wide level, local level (ANSPs) and for network functions (Network Manager). For RP3, the following target should be achieved by 2024:</p>
+<ul>
+<li>At least Level C in the safety management objectives ‘safety culture’, ‘safety policy and objectives’, ‘safety assurance’, and ‘safety promotion’; and</li>
+<li>At least Level D in the safety management objective ‘safety risk management’.</li>
+</ul>
+<p>In addition, for the Network Manager the safety PI, defined as the ATFM over-deliveries above the capacity limits of a sector declared by the air navigation service provider where ATFM regulations are imposed, is presented.</p>
+</section>
+<section id="kea" class="level2">
+<h2 class="anchored" data-anchor-id="kea">KEA</h2>
+<p>Environmental performance is measured through the horizontal en route flight efficiency of the actual flight path (KEA) KPI. The KEA KPI measures the additional distance flown beyond the great circle distance. ‘en route’ is defined as the distance flown outside a circle of 40 NM around the airport. The indicator is calculated for the whole calendar year and for each year of the reference period, as an average (excluding the ten highest daily values and the ten lowest daily values).</p>
+<p>This additional distance flown is impacted by the actions of ANSPs but also the route choices of airspace users, airspace restrictions or network measures. The higher the KEA value, the worse the performance.</p>
+<p>KEA is the only environment KPI upon which Union-wide and local (national or FAB level) performance is assessed. Applicable KEA targets are defined at Union-wide level, while local targets are derived from the national reference values set out in latest version of the <a href="https://www.eurocontrol.int/function/route-network-and-airspace-design">European Route Network Improvement Plan</a> (ERNIP) available at the time of adoption of the Union-wide performance targets.</p>
+<p>For the Network Manager, the environment KPI measures the efficiency of the European route network related to the last filed flight plan trajectory (KEP). </p>
+</section>
+<section id="average-en-route-atfm-delay-per-flight." class="level2">
+<h2 class="anchored" data-anchor-id="average-en-route-atfm-delay-per-flight.">Average en route ATFM delay per flight.</h2>
+<p>En route capacity is monitored through the average en route air traffic flow management (ATFM) delay generated by en route area control centres (ACC). ATFM delay is calculated by the Network Manager and expressed as the difference between the estimated take-off time (ETOT) and the calculated take-off time (CTOT) allocated by the Network Manager. This indicator covers all IFR flights and all ATFM delay causes, excluding exceptional events and it is calculated for the whole calendar year and for each year of the reference period.</p>
+<p>Total ATFM delay per flight is broken down across the following delay groups:</p>
+<ul>
+<li>Capacity (delay code C);</li>
+<li>Staffing (S); - Disruptions (I, T);</li>
+<li>Weather (D, W); and</li>
+<li>Other non-ATC (A, E, G, M, N, O, P, R, V, NA).</li>
+</ul>
+<p>Average en route ATFM delay per flight is the only capacity KPI upon which Union-wide performance is assessed. Differently, at the local level (national or FAB level), also average airport arrival ATFM delay per flight is monitored as KPI.</p>
+<p>Applicable ATFM delay targets are defined at Union-wide level, while local targets are derived from the national reference values set out in latest version of the <a href="https://www.eurocontrol.int/network-operations-planning">Network Operations Plan</a> (NOP) available at the time of adoption of the Union-wide performance targets.</p>
+<p>For the network functions, two capacity KPI are defined:</p>
+<ul>
+<li>The share of en route ATFM delay savings due to collaborative decision making (CDM) network procedures, and Network Manager Operations Centre (NMOC) actions.</li>
+<li>The percentage of arrival ATFM delay savings from the collaborative decision-making network procedures and Network Manager Operations Centre actions.</li>
+</ul>
+<p>In addition, for the Network Manager also the capacity PI, defined as the annual percentage of IFR flights with ATFM delay above 15 minutes, is presented.</p>
+</section>
+<section id="duc" class="level2">
+<h2 class="anchored" data-anchor-id="duc">DUC</h2>
+<p>The en route cost-efficiency performance is monitored through the year-on-year change of the determined unit costs (DUC) for en route air navigation services KPI. The KPI is defined as the en route determined costs (in real terms) divided by the total en route service units and is calculated for the whole calendar year and for each year of the reference period.</p>
+<p>The indicator measures improvements in the unitary cost for the provision of en route air navigation services. At Union-wide level the cost-efficiency KPI is expressed in terms of year-on-year percentage change against the target. At local level (charging zone), the yearly DUC values, as included in the adopted performance plan, are fixed in advance for the entire reference period and cost-efficiency performance are monitored by comparing the DUC to the actual unit cost (AUC), which is computed as the ratio between actual costs and actual service units.</p>
+<p>At local level, also the terminal DUC is monitored as KPI.</p>
+<p>Applicable cost-efficiency targets are defined at Union-wide level, while local targets are expressed in terms of consistency of the DUC at charging zone level with the Union-wide DUC trend over the reference period.</p>
+<p>For the network functions, the cost-efficiency KPI is the actual unit cost for the execution of the Network Manager tasks. The indicator is calculated as the ratio between the actual costs and the service units at the level of the geographical area where the Network Manager executes its tasks. </p>
 
 
 </section>
@@ -172,9 +219,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -239,6 +300,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -276,12 +423,40 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-      <div class="nav-footer-center">To be added</div>
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="mailto:prb-office@prb.eusinglesky.eu"><i class="fa-solid fa-envelope" aria-label="envelope"></i> prb-office@prb.eusinglesky.eu</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 

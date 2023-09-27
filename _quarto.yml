@@ -20,7 +20,10 @@ website:
         target: "_blank"
       # - href: https://www.eurocontrol.int/prudata/dashboard/
       #   text: SES Data Portal {{< fa external-link-alt >}}
-  page-footer: "To be added" 
+  page-footer: 
+    center: 
+      - href: mailto:prb-office@prb.eusinglesky.eu
+        text: "{{< fa envelope >}} prb-office@prb.eusinglesky.eu"
   
 format:
   html:
@@ -28,6 +31,9 @@ format:
     toc: false
     page-layout: full
     css: styles.css
+    link-external-newwindow: true
+    link-external-icon: true
+    # link-external-filter: '^(?:http:|https:)\/\/ansperformance\.eu\/|^(?:http:|https:)\/\/.*ace-handbook\.netlify\.app\/'
     
 execute:
   echo: false
