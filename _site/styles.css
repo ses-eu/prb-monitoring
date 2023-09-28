@@ -1,0 +1,26 @@
+nav {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.navbar-logo{
+ max-height: 35px;
+
+}
+
+.text-centered {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.text-centered-nb {
+  text-align: center;
+}
+
+.text-pad-top {
+  padding-top: 1rem;
+}  
+
+h1, h2 {
+  color: #0070c0;
+}
