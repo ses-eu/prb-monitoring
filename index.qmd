@@ -19,7 +19,7 @@ editor: visual
 
 ::: {.column width="50%" }
 ::: text-pad-top
-**En route service units (SUs)** <br>108,508 ('000) SUs <br>(-2% vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} <br>(+62% vs 2021) 
+**En route service units (SUs)** <br>108,380 ('000) SUs <br>(+3.8% vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>(+62% vs 2021) 
 :::
 :::
 :::
