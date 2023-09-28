@@ -12,20 +12,7 @@ website:
     left: 
       - href: index.qmd
         text: Home
-      - href: dashboard.qmd
-        text: Interactive dashboard
-      - href: about.qmd
-        text: About
-      - href: https://wikis.ec.europa.eu/display/eusinglesky/EU+Single+Sky+Performance
-        text: Publications {{< fa external-link-alt >}}
-        target: "_blank"
-      # - href: https://www.eurocontrol.int/prudata/dashboard/
-      #   text: SES Data Portal {{< fa external-link-alt >}}
-  page-footer: 
-    center: 
-      - href: mailto:prb-office@prb.eusinglesky.eu
-        text: "{{< fa envelope >}} prb-office@prb.eusinglesky.eu"
-  
+
 format:
   html:
     theme: cosmo
