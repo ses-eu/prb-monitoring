@@ -33,7 +33,7 @@ editor: visual
 
 ::: {.column width="50%" style="border-top: 1px solid black;"}
 ::: text-pad-top
-**Environment KPA** <br>KEA: 2.59% <br>(+0.22p.p. vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
+**Environment KPA** <br>KEA: 2.96% <br>(+0.59p.p. vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
 :::
 :::
 :::
