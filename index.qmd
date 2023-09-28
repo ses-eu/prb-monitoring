@@ -27,7 +27,7 @@ editor: visual
 ::: columns
 ::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black; "}
 ::: text-pad-top
-**Safety KPA** <br>EoSM (ANSPs on/above the target): <br>Risk management: 20 (+9 vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>Other MOs: 27 (-3 vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} 
+**Safety KPA** <br>EoSM (ANSPs on/above the target): <br>Risk management: 18 (+7 vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>Other MOs: 27 (-3 vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"} 
 :::
 :::
 
