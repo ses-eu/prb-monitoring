@@ -16,7 +16,7 @@ website:
         text: Interactive dashboard
       - href: about.qmd
         text: About
-      - href: https://transport.ec.europa.eu/transport-modes/air/single-european-sky/ses-performance-and-charging/publications_en
+      - href: https://wikis.ec.europa.eu/display/eusinglesky/EU+Single+Sky+Performance
         text: Publications {{< fa external-link-alt >}}
         target: "_blank"
       # - href: https://www.eurocontrol.int/prudata/dashboard/

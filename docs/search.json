@@ -1,28 +1,14 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "",
-    "section": "",
-    "text": "The performance and charging schemes are established on the basis of Article 11 of Regulation (EC) No 549/2004 laying down the framework for the creation of the Single European Sky (the Framework Regulation) and Articles 14-16 of Regulation (EC) No 550/2004 on the provision of air navigation services in the Single European Sky (the Service Provision Regulation) respectively. Technical provisions for the third reference period (RP3), covering 2020 to 2024, are set out in Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the Single European Sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 as well as Commission Implementing Regulation (EU) 2020/1627 of 3 November 2020 on exceptional measures for the third reference period of the Single European Sky performance and charging scheme due to the COVID-19 pandemic.\nThe regulatory framework defines key performance indicators (KPIs) for the key performance areas (KPAs) of:\n\nSafety;\nEnvironment;\nCapacity; and\nCost-efficiency.\n\nThese are used to set performance targets at Union level, national level, or functional airspace block level. The KPIs cover both en route and terminal air navigation services, as well as network functions, to improve the overall performance of the network.\nThe Union-wide revised performance targets for the third reference period are defined in Commission Implementing Decision (EU) 2021/891 of 2 June 2021 (repealing Implementing Decision (EU) 2019/903). Based on the targets, Member States prepare the performance plans, which they submitted to the Commission, as assisted by the Performance Review Body (PRB).\nUnder Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the PRB. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets. The PRB Annual Monitoring Report (AMR) analyses the performance of the air navigation services of the Single European Sky (SES) against targets. The current dashboard is meant to support the dissemination of the PRB AMR analysis and conclusions for:\n\nThe SES system as a whole.\nIndividual Member States (including MUAC); and\nNetwork functions performed by the Network Manager."
-  },
-  {
-    "objectID": "about.html#about-the-prb",
-    "href": "about.html#about-the-prb",
-    "title": "About",
-    "section": "About the PRB",
-    "text": "About the PRB\nThe Performance Review Body (PRB) of the Single European sky (SES) is an advisory body to the European Commission. The PRB assists the Commission in the implementation of the SES performance and charging scheme and makes recommendations to the Commission. It is established by Commission Implementing Decision (EU) 2016/2296 of 16 December 2016.\nThe tasks of the PRB are defined in Article 3 of Commission Implementing Regulation (EU) 2019/317."
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "PRB Annual Monitoring Report - Interactive dashboard",
-    "section": "",
-    "text": "Please, note that the dashboard takes a few seconds to load."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "PRB Annual Monitoring Report (AMR)",
+    "section": "",
+    "text": "IFR movements 8,345 (’000) flights (+52% vs 2021) -\n\n\n\nEn route service units (SUs) 108,508 (’000) SUs (-2% vs plan)  (+62% vs 2021)\n\n\n\n\n\n\nSafety KPA EoSM (ANSPs on/above the target): Risk management: 20 (+9 vs plan)  Other MOs: 27 (-3 vs plan) \n\n\n\nEnvironment KPA KEA: 2.59% (+0.22p.p. vs target) \n\n\n\n\n\n\nCapacity KPA En route ATFM delay: 1.74 min/flt (+1.24 min/flt vs target) \n\n\n\nCost-Efficiency KPA AUC trend: -43.9% (-5.4pp vs DUC trend) \n\n\n\n\n\n\n\nPlaceholder for PRB conclusions"
+  },
+  {
+    "objectID": "index.html#performance---high-level-results",
+    "href": "index.html#performance---high-level-results",
     "title": "PRB Annual Monitoring Report (AMR)",
     "section": "",
     "text": "IFR movements 8,345 (’000) flights (+52% vs 2021) -\n\n\n\nEn route service units (SUs) 108,508 (’000) SUs (-2% vs plan)  (+62% vs 2021)\n\n\n\n\n\n\nSafety KPA EoSM (ANSPs on/above the target): Risk management: 20 (+9 vs plan)  Other MOs: 27 (-3 vs plan) \n\n\n\nEnvironment KPA KEA: 2.59% (+0.22p.p. vs target) \n\n\n\n\n\n\nCapacity KPA En route ATFM delay: 1.74 min/flt (+1.24 min/flt vs target) \n\n\n\nCost-Efficiency KPA AUC trend: -43.9% (-5.4pp vs DUC trend) \n\n\n\n\n\n\n\nPlaceholder for PRB conclusions"
@@ -35,20 +21,6 @@
     "text": "SES geographical scope\n\n\nSES Regulation covers:\n\n29 States\n29 En route charging zones\n24 Terminal charging zones\n49 ACCs\n145 Airports"
   },
   {
-    "objectID": "index.html#performance---high-level-results",
-    "href": "index.html#performance---high-level-results",
-    "title": "PRB Annual Monitoring Report (AMR)",
-    "section": "",
-    "text": "IFR movements 8,345 (’000) flights (+52% vs 2021) -\n\n\n\nEn route service units (SUs) 108,508 (’000) SUs (-2% vs plan)  (+62% vs 2021)\n\n\n\n\n\n\nSafety KPA EoSM (ANSPs on/above the target): Risk management: 20 (+9 vs plan)  Other MOs: 27 (-3 vs plan) \n\n\n\nEnvironment KPA KEA: 2.59% (+0.22p.p. vs target) \n\n\n\n\n\n\nCapacity KPA En route ATFM delay: 1.74 min/flt (+1.24 min/flt vs target) \n\n\n\nCost-Efficiency KPA AUC trend: -43.9% (-5.4pp vs DUC trend) \n\n\n\n\n\n\n\nPlaceholder for PRB conclusions"
-  },
-  {
-    "objectID": "index.html#online-monitoring-library",
-    "href": "index.html#online-monitoring-library",
-    "title": "PRB Annual Monitoring Report (AMR)",
-    "section": "Online Monitoring Library",
-    "text": "Online Monitoring Library\nto be added"
-  },
-  {
     "objectID": "index.html#prb-annual-monitoring-report",
     "href": "index.html#prb-annual-monitoring-report",
     "title": "PRB Annual Monitoring Report (AMR)",
@@ -56,11 +28,11 @@
     "text": "PRB Annual Monitoring Report\nUnder Commission Implementing Regulation (EU) 2019/317 (herein referred to as the Regulation), monitoring is one of the primary tasks of the Performance Review Body (PRB). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Regulation."
   },
   {
-    "objectID": "about.html#prb-amr-scope-objectives-and-legal-basis",
-    "href": "about.html#prb-amr-scope-objectives-and-legal-basis",
-    "title": "About",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "",
     "section": "",
-    "text": "The PRB Annual Monitoring Report analyses the yearly performance of the air navigation services of the Single European Sky (SES) area against the targets included in the adopted national Performance Plans. The third reference period of the SES performance scheme covers the calendar years 2020 to 2024 inclusive.\nUnder Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the Performance Review Body. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe PRB Annual Monitoring Report covers the four Key Performance Areas (KPAs) of safety, environment, capacity and cost efficiency. For each KPA, Regulation (EU) 2019/317 defines Key Performance Indicators (KPIs) as well a number of indicators for monitoring not associated to a binding target (PIs).\nThe legal basis for monitoring ATM performance of air traffic management (ATM) in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Commission Implementing Regulation (EU) 2019/317.\nThe PRB AMR dashboard provides access to the latest available data and analysis at Union-wide and local level."
+    "text": "The performance and charging schemes are established on the basis of Article 11 of Regulation (EC) No 549/2004 laying down the framework for the creation of the Single European Sky (the Framework Regulation) and Articles 14-16 of Regulation (EC) No 550/2004 on the provision of air navigation services in the Single European Sky (the Service Provision Regulation) respectively. Technical provisions for the third reference period (RP3), covering 2020 to 2024, are set out in Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the Single European Sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 as well as Commission Implementing Regulation (EU) 2020/1627 of 3 November 2020 on exceptional measures for the third reference period of the Single European Sky performance and charging scheme due to the COVID-19 pandemic.\nThe regulatory framework defines key performance indicators (KPIs) for the key performance areas (KPAs) of:\n\nSafety;\nEnvironment;\nCapacity; and\nCost-efficiency.\n\nThese are used to set performance targets at Union level, national level, or functional airspace block level. The KPIs cover both en route and terminal air navigation services, as well as network functions, to improve the overall performance of the network.\nThe Union-wide revised performance targets for the third reference period are defined in Commission Implementing Decision (EU) 2021/891 of 2 June 2021 (repealing Implementing Decision (EU) 2019/903). Based on the targets, Member States prepare the performance plans, which they submitted to the Commission, as assisted by the Performance Review Body (PRB).\nUnder Commission Implementing Regulation (EU) 2019/317, monitoring is one of the primary tasks of the PRB. It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets. The PRB Annual Monitoring Report (AMR) analyses the performance of the air navigation services of the Single European Sky (SES) against targets. The current dashboard is meant to support the dissemination of the PRB AMR analysis and conclusions for:\n\nThe SES system as a whole.\nIndividual Member States (including MUAC); and\nNetwork functions performed by the Network Manager."
   },
   {
     "objectID": "about.html#overview",
@@ -103,5 +75,12 @@
     "title": "",
     "section": "DUC",
     "text": "DUC\nThe en route cost-efficiency performance is monitored through the year-on-year change of the determined unit costs (DUC) for en route air navigation services KPI. The KPI is defined as the en route determined costs (in real terms) divided by the total en route service units and is calculated for the whole calendar year and for each year of the reference period.\nThe indicator measures improvements in the unitary cost for the provision of en route air navigation services. At Union-wide level the cost-efficiency KPI is expressed in terms of year-on-year percentage change against the target. At local level (charging zone), the yearly DUC values, as included in the adopted performance plan, are fixed in advance for the entire reference period and cost-efficiency performance are monitored by comparing the DUC to the actual unit cost (AUC), which is computed as the ratio between actual costs and actual service units.\nAt local level, also the terminal DUC is monitored as KPI.\nApplicable cost-efficiency targets are defined at Union-wide level, while local targets are expressed in terms of consistency of the DUC at charging zone level with the Union-wide DUC trend over the reference period.\nFor the network functions, the cost-efficiency KPI is the actual unit cost for the execution of the Network Manager tasks. The indicator is calculated as the ratio between the actual costs and the service units at the level of the geographical area where the Network Manager executes its tasks."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "PRB Annual Monitoring Report - Interactive dashboard",
+    "section": "",
+    "text": "Please, note that the dashboard takes a few seconds to load."
   }
 ]
