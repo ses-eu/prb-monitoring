@@ -28,6 +28,13 @@
     "text": "PRB Annual Monitoring Report\nUnder Commission Implementing Regulation (EU) 2019/317 (herein referred to as the Regulation), monitoring is one of the primary tasks of the Performance Review Body (PRB). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.\nThe legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Regulation."
   },
   {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "PRB Annual Monitoring Report - Interactive dashboard",
+    "section": "",
+    "text": "Please, note that the dashboard takes a few seconds to load."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "",
@@ -77,10 +84,17 @@
     "text": "Cost-efficiency - Determined unit costs (DUC)\nThe en route cost-efficiency performance is monitored through the year-on-year change of the determined unit costs (DUC) for en route air navigation services KPI. The KPI is defined as the en route determined costs (in real terms) divided by the total en route service units and is calculated for the whole calendar year and for each year of the reference period.\nThe indicator measures improvements in the unitary cost for the provision of en route air navigation services. At Union-wide level the cost-efficiency KPI is expressed in terms of year-on-year percentage change against the target. At local level (charging zone), the yearly DUC values, as included in the adopted performance plan, are fixed in advance for the entire reference period and cost-efficiency performance are monitored by comparing the DUC to the actual unit cost (AUC), which is computed as the ratio between actual costs and actual service units.\nAt local level, also the terminal DUC is monitored as KPI.\nApplicable cost-efficiency targets are defined at Union-wide level, while local targets are expressed in terms of consistency of the DUC at charging zone level with the Union-wide DUC trend over the reference period.\nFor the network functions, the cost-efficiency KPI is the actual unit cost for the execution of the Network Manager tasks. The indicator is calculated as the ratio between the actual costs and the service units at the level of the geographical area where the Network Manager executes its tasks."
   },
   {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "PRB Annual Monitoring Report - Interactive dashboard",
+    "objectID": "disclaimer.html",
+    "href": "disclaimer.html",
+    "title": "",
     "section": "",
-    "text": "Please, note that the dashboard takes a few seconds to load."
+    "text": "This report has been prepared for the European Commission by the Performance Review Body of the Single European Sky (PRB).\nReproduction is authorised provided the source is acknowledged. However, neither the European Commission, nor any person acting on its behalf, may be held responsible for the use which may be made of the information contained in this publication, or for any errors which may appear, despite careful preparation and checking."
+  },
+  {
+    "objectID": "disclaimer.html#disclaimer",
+    "href": "disclaimer.html#disclaimer",
+    "title": "",
+    "section": "",
+    "text": "This report has been prepared for the European Commission by the Performance Review Body of the Single European Sky (PRB).\nReproduction is authorised provided the source is acknowledged. However, neither the European Commission, nor any person acting on its behalf, may be held responsible for the use which may be made of the information contained in this publication, or for any errors which may appear, despite careful preparation and checking."
   }
 ]

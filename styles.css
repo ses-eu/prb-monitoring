@@ -1,4 +1,4 @@
-nav {
+header {
   margin: auto;
   max-width: 1200px;
 }
@@ -24,3 +24,8 @@ nav {
 h1, h2 {
   color: #0070c0;
 }
+
+.nav-footer {
+    display: block;
+}
+
