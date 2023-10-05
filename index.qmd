@@ -4,9 +4,6 @@ format: html
 editor: visual
 ---
 
-<<<<<<< HEAD
-This is a placeholder for the PRB Annual Monitoring portal.
-=======
 ## 2022 Performance - High Level Results
 
 ::: columns
@@ -106,4 +103,3 @@ SES Regulation covers:
 Under Commission Implementing Regulation (EU) 2019/317 (herein referred to as the Regulation), monitoring is one of the primary tasks of the Performance Review Body (PRB). It ensures that Member States, the European Commission, and stakeholders are informed about how Air Navigation Service Providers (ANSPs) perform in relation to their performance targets.
 
 The legal basis for monitoring the performance of air traffic management in the SES area is defined in Article 11 of Regulation (EC) 549/2004 (the Framework Regulation) and in Article 3 of the Regulation.
->>>>>>> development
