@@ -11,6 +11,29 @@ website:
     left: 
       - href: index.qmd
         text: Home
+      - href: dashboard.qmd
+        text: Interactive dashboard
+      - text: 'About'
+        href: about.qmd
+      - href: https://wikis.ec.europa.eu/display/eusinglesky/EU+Single+Sky+Performance
+        text: Publications {{< fa external-link-alt >}}
+        target: "_blank"
+      # - href: https://www.eurocontrol.int/prudata/dashboard/
+      #   text: SES Data Portal {{< fa external-link-alt >}}
+
+  page-footer: 
+    # left: |
+    #   Proudly supported by
+    #   [![](images/euctrl-logo-wide-poweredby.svg){fig-alt="EUROCONTROL" width=95px}](https://eurocontrol.int)
+    center: 
+      - href: '/'
+        text: '© European Union, 2023'
+      - href: disclaimer.qmd
+        text: "{{< fa triangle-exclamation >}} Disclaimer"
+      - href: mailto:prb-office@prb.eusinglesky.eu
+        text: '{{< fa envelope color="#ffffff">}} prb-office@prb.eusinglesky.eu'
+      - text: 'Prepared by EUROCONTROL for the European Comission'
+        href: 'https://www.eurocontrol.int/'
 
 format:
   html:
