@@ -24,11 +24,13 @@ website:
   page-footer: 
     center: 
       - href: '/'
-        text: '© European Uion, 2023'
+        text: '© European Union, 2023'
       - href: disclaimer.qmd
         text: "{{< fa triangle-exclamation >}} Disclaimer"
       - href: mailto:prb-office@prb.eusinglesky.eu
         text: '{{< fa envelope color="#ffffff">}} prb-office@prb.eusinglesky.eu'
+      # - text: 'Powered by EUROCONTROL'
+      #   href: 'https://www.eurocontrol.int/' 
 
 format:
   html:
