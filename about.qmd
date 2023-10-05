@@ -23,9 +23,12 @@ All the values and comments included in this dashboard reflect the information p
 
 ## Traffic
 
-Air traffic is presented, for the SES reference area and for the individual Member States, in terms of: - Instrumental Flight Rules movements (IFR); and - Total service units (TSUs) (i.e. unit of measurement used for charging purposes based on the multiplication of aircraft weight factor by distance factor).
+Air traffic is presented, for the SES reference area and for the individual Member States, in terms of:
 
-Actual traffic is compared with both the planned/determined traffic included in the adopted performance plan, as well as with the latest [STATFOR](https://www.eurocontrol.int/forecasting#deliverables) forecast available at the time of adoption of the local performance plans. For IFR movements, planned data reflect the information included in the adopted performance plan while actual data are sourced from the relevant STATFOR forecast. Differently, service units determined and actuals data are sourced from the en route reporting tables. 
+-   Instrumental Flight Rules movements (IFR); and
+-   Total service units (TSUs) (i.e. unit of measurement used for charging purposes based on the multiplication of aircraft weight factor by distance factor).
+
+Actual traffic is compared with both the planned/determined traffic included in the adopted performance plan, as well as with the latest [STATFOR](https://www.eurocontrol.int/forecasting#deliverables) forecast available at the time of adoption of the local performance plans. For IFR movements, planned data reflect the information included in the adopted performance plan while actual data are sourced from the relevant STATFOR forecast. Differently, service units determined and actuals data are sourced from the en route reporting tables.
 
 ## Safety - Effectiveness of safety management (EoSM)
 
