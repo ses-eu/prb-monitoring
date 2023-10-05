@@ -32,7 +32,7 @@ website:
         text: "{{< fa triangle-exclamation >}} Disclaimer"
       - href: mailto:prb-office@prb.eusinglesky.eu
         text: '{{< fa envelope color="#ffffff">}} prb-office@prb.eusinglesky.eu'
-      - text: 'Prepared by EUROCONTROL for the European Comission'
+      - text: 'Prepared by EUROCONTROL for the European Commission'
         href: 'https://www.eurocontrol.int/'
 
 format:
