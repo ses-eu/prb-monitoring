@@ -22,9 +22,9 @@ website:
       #   text: SES Data Portal {{< fa external-link-alt >}}
 
   page-footer: 
-    left: |
-      Proudly supported by
-      [![](images/euctrl-logo-wide-poweredby.svg){fig-alt="EUROCONTROL" width=95px}](https://eurocontrol.int)
+    # left: |
+    #   Proudly supported by
+    #   [![](images/euctrl-logo-wide-poweredby.svg){fig-alt="EUROCONTROL" width=95px}](https://eurocontrol.int)
     center: 
       - href: '/'
         text: '© European Union, 2023'
