@@ -6,67 +6,53 @@ editor: visual
 
 ## 2022 Performance - High Level Results
 
-::: columns
-::: {.column width="50%"}
-::: text-centered
-::: columns
-::: {.column width="50%" style="border-right: 1px solid black;"}
-::: text-pad-top
+<div class="grid">
+<div class="g-col-lg-6 g-col-12">
+
+<div class="grid" style="gap: 0rem">
+<div class="g-col-6 text-center text-pad-top border border-right-0">
 **IFR movements** <br>8,345 ('000) flights <br>(+52% vs 2021) <br>[-]{style="color:white;"}
-:::
-:::
+</div>
 
-::: {.column width="50%"}
-::: text-pad-top
+<div class="g-col-6 text-center text-pad-top border">
 **En route service units (SUs)** <br>108,380 ('000) SUs <br>(+3.8% vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>(+62% vs 2021)
-:::
-:::
-:::
+</div>
+</div>
 
-::: columns
-::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black; "}
-::: text-pad-top
+<div class="grid" style="gap: 0rem">
+<div class="g-col-6 text-pad-top text-center border border-top-0">
 **Safety KPA** <br>EoSM (ANSPs on/above the target): <br>Risk management: 18 (+7 vs plan) [{{< fa solid arrow-up >}}]{style="color: #92d050;"} <br>Other MOs: 27 (-3 vs plan) [{{< fa solid arrow-down >}}]{style="color: #FF0000;"}
-:::
-:::
+</div>
 
-::: {.column width="50%" style="border-top: 1px solid black;"}
-::: text-pad-top
+<div class="g-col-6 text-pad-top text-center border border-top-0">
 **Environment KPA** <br>KEA: 2.96% <br>(+0.59p.p. vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
-:::
-:::
-:::
+</div>
+</div>
 
-::: columns
-::: {.column width="50%" style="border-right: 1px solid black; border-top: 1px solid black;"}
-::: text-pad-top
+<div class="grid" style="gap: 0rem"> 
+<div class="g-col-6 text-center text-pad-top border border-top-0">
 **Capacity KPA** <br>En route ATFM delay: 1.69 min/flt <br>(+1.19 min/flt vs target) [{{< fa solid arrow-up >}}]{style="color: #FF0000;"}
-:::
-:::
+</div>
 
-::: {.column width="50%" style="border-top: 1px solid black;"}
-::: text-pad-top
+<div class="g-col-6 text-center text-pad-top border border-top-0">
 **Cost-Efficiency KPA** <br>AUC trend: -43.9% <br>(-5.4p.p. vs DUC trend) [{{< fa solid arrow-down >}}]{style="color: #92d050;"}
-:::
-:::
-:::
-:::
-:::
+</div>
+</div>
+
+</div>
 
 <!-- empy column for space -->
 
-::: {.column width="2%"}
-:::
-
-::: {.column width="48%"}
+<div class="g-col-lg-6 g-col-12 " >
 2022 saw traffic in many parts of Europe rebound. The lack of capacity observed in 2018 and 2019 reappeared as traffic increased, with some Member States not able to provide the capacity required to keep delay at or below the target.
 
 This lack of capacity also resulted in poorer horizontal flight efficiency and contributed to missing the the Union-wide targets for KEA by a substantial amount. This was exacerbated by a shift in traffic flows caused by Russia’s war of aggression against Ukraine the avoidance of the airspace of Belorussia, Russia and Ukraine. 
 
 This dashboard, and the 2022 monitoring report, highlight a considerable variation in performance across Member States. Some ANSPs rose to the challenges of the recovery of traffic and the shift in traffic flows. For others, performance deteriorated. This deterioration, for some, resulted from issues outside of the control of the ANSP. For others, the deterioration stems from a lack of investment in capacity, which must be a focus for the coming years.
 
-:::
-:::
+</div>
+
+</div>
 
 Despite the mixed environment, capacity, and cost-efficiency performance, safety measured under the performance and charging scheme has remained positive throughout 2022.
 
