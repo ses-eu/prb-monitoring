@@ -3,6 +3,7 @@ project:
 
 website:
   title: ""
+  google-analytics: "G-YYRL9J8JZ1"
   search: false 
   favicon: "images/prb_logo_smaller.png"
   navbar:
